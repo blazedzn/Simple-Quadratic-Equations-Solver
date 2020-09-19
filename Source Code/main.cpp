@@ -8,8 +8,8 @@ void calc_x_equal_to_zero(int a, int b);
 
 int main(){
     while(true) {
-		cout << endl;
-		cout << "-----------------------------"<< endl;
+	cout << endl;
+	cout << "-----------------------------"<< endl;
 		
         int a{0}, b{0}, c{0};
         double discriminant{0};
