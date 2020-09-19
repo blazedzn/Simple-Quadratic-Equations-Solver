@@ -5,4 +5,4 @@
 
 🇺🇸: Pretty easy. Just enter your x^2, x, and number coefficients and program will calculate equation for you.
 
-🇷🇺: Всё просто. ВВеди коэффициенты x^2, x и коэффициент числа и программа расчитает уравнение за тебя.
+🇷🇺: Всё просто. Веди коэффициенты x^2, x и коэффициент числа и программа расчитает уравнение за тебя.
